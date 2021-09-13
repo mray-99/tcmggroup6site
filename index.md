@@ -34,11 +34,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### About Us
 
-
+## Marc De La Cruz
 
 Howdy! My name is Marc De La Cruz and I am a Technology Management major from Houston, TX. I enjoy eating Nachos or Chicken Alfredo. Whenever I have some time for myself, I like to listen to music or play video games on my Xbox. An interesting fact about me is that my favorite shows to watch on Netflix include Outer Banks and Black Mirror. Another interesting fact is that I enjoy traveling. My favorite place that I went to would have to be Rome because I enjoyed learning about the history of the Roman Empire and I also liked the architecture of each historical building in that city. 
 
-Howdy this is Neil
-I miss Haynes King
+## Neil Baker
+Howdy, my name is Neil, and I am a technology management major from Colorado Springs, CO. I love me some Aggie football, and I headed to Colorado this past weekend to watch Haynes King get his leg broken in half, and to watch our offense score a grand total of 10 points on a mid-tier Pac 12 team. Fortunately, watching 20+ years of Aggie football will prepare you for dealing with disappointment, so it wasn't as infuriating as one might think. After spending several hours in Denver, I can confirm that CU Boulder fans are by far the worst I've come across, and I was in Baton Rouge for the 50-7 blowout in 2019. I'll leave it at that. Thanks.
 
+## Marco Baeza
 Howdy this is Marco I am Technology Management major. I am from San Antonio, Tx.
