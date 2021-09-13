@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-My name is Marc lol
+Howdy! My name is Marc De La Cruz and I am a Technology Management major from Houston, TX. 
 
 Howdy this is Neil
 I miss Haynes King
