@@ -50,3 +50,5 @@ Howdy this is Marco I am Technology Management major. I am from San Antonio, Tx.
 
 ## Mason Ray
 Howdy! My name is Mason Ray and I am a technology management major from Houston, TX. I enjoy long hikes and drinking on the beach. When I have some free time in my week, I play video games, cook, and listen to music. My favorite artist currently is Silverstein but my favorite song of all time is "My name is" by eminem. I would say that my favorite type of food would be sushi and my favorite type of drink is water. An interesting fact about me is that I have never broken a bone but I have gotten many stitches. If I won the lottery tomorrow, I would pay off all of my parents debts, my debts, buys some land in the rocky mountains and build a homestead. If I could travel anywhere in the world, I would vist Iceland. 
+
+![IMG_1550 CR2](https://user-images.githubusercontent.com/89879060/133161381-7aedd968-6a04-4e3f-ae33-d789ac79352c.jpg)
