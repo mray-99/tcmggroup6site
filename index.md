@@ -40,3 +40,5 @@ Howdy! My name is Marc De La Cruz and I am a Technology Management major from Ho
 
 Howdy this is Neil
 I miss Haynes King
+
+Howdy this is Marco I am Technology Management major. I am from San Antonio, Tx.
