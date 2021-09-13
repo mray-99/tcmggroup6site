@@ -47,6 +47,8 @@ Howdy, my name is Neil, and I am a technology management major from Colorado Spr
 
 ## Marco Baeza
 Howdy! My name is Marco Baeza and I am a Technology Management student from San Antonio, TX. I enjoy watching sports such as football, basketball, baseball, and soccer. Whenever I have free time I like to go on hikes, go to music festivals, travel, and play basketball. Speaking of basketball I actually tore my ACL playing basketball, which was not fun. I also like to cook. You can’t go wrong with some tacos. My favorite place to go in the summer is Chicago. Here is a picture of me there.
+![bio](https://user-images.githubusercontent.com/90434789/133165060-7972b5c4-c4b7-4546-ab90-e7d7095e1acf.jpg)
+
 
 ## Mason Ray
 Howdy! My name is Mason Ray and I am a technology management major from Houston, TX. I enjoy long hikes and drinking on the beach. When I have some free time in my week, I play video games, cook, and listen to music. My favorite artist currently is Silverstein but my favorite song of all time is "My name is" by eminem. I would say that my favorite type of food would be sushi and my favorite type of drink is water. An interesting fact about me is that I have never broken a bone but I have gotten many stitches. If I won the lottery tomorrow, I would pay off all of my parents debts, my debts, buys some land in the rocky mountains and build a homestead. If I could travel anywhere in the world, I would vist Iceland. 
