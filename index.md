@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-Howdy! My name is Marc De La Cruz and I am a Technology Management major from Houston, TX. 
+Howdy! My name is Marc De La Cruz and I am a Technology Management major from Houston, TX. I enjoy eating Nachos or Chicken Alfredo. Whenever I have some time for myself, I like to listen to music or play video games on my Xbox. An interesting fact about me is that my favorite shows to watch on Netflix include Outer Banks and Black Mirror. Another interesting fact is that I enjoy traveling. My favorite place that I went to would have to be Rome because I enjoyed learning about the history of the Roman Empire and I also liked the architecture of each historical building in that city. 
 
 Howdy this is Neil
 I miss Haynes King
